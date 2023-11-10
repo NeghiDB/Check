@@ -5,7 +5,7 @@
     $dbname = "chek";*/
     $servername = "localhost";
     $username = "root";
-    $password = "K=2oXF4Ft~Ce";
+    $password = "";
     $dbname = "check";
 
     // Create connection
@@ -94,7 +94,7 @@
                 $dbname = "chek";*/
                 $servername = "localhost";
                 $username = "root";
-                $password = "K=2oXF4Ft~Ce";
+                $password = "";
                 $dbname = "check";
 
                 // Create connection
