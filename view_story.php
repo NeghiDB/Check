@@ -4,9 +4,9 @@
     $password = "";
     $dbname = "chek";*/
     $servername = "localhost";
-    $username = "sneakyco_dreamteamarena";
+    $username = "root";
     $password = "K=2oXF4Ft~Ce";
-    $dbname = "sneakyco_dreamteamarena";
+    $dbname = "check";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
@@ -93,9 +93,9 @@
                 $password = "";
                 $dbname = "chek";*/
                 $servername = "localhost";
-                $username = "sneakyco_dreamteamarena";
+                $username = "root";
                 $password = "K=2oXF4Ft~Ce";
-                $dbname = "sneakyco_dreamteamarena";
+                $dbname = "check";
 
                 // Create connection
                 $conn = new mysqli($servername, $username, $password, $dbname);
