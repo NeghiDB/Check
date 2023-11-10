@@ -1,2 +1,6 @@
 # Check
-Kind of a Google Replica
+
+* Upload stories on it
+* Search for stories
+* Share stories
+* Read stories
